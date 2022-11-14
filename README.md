@@ -38,11 +38,14 @@ const ehsan = {
     code: ["Javascript", "Typescript", "Java", "PHP"],
     askMeAbout: ["web dev", "tech", "app dev"],
     technologies: {
+        frontEnd: {
+            js: ["React", "Angular"],
+        },
         backEnd: {
             js: ["Node", "Express"],
         },
         mobileApp: {
-            hybrid: ["Angular" , "Ionic" , "React"]
+            hybrid: ["Ionic" , "React Native"]
         },
         devOps: ["AWS", "Docker🐳", "Nginx"],
         databases: ["mongo", "MySql", "sqlite"],
