@@ -39,7 +39,7 @@ const ehsan = {
     askMeAbout: ["web dev", "tech", "app dev"],
     technologies: {
         frontEnd: {
-            js: ["React", "Angular"],
+            js: ["React", "Angular", "Svelte"],
         },
         backEnd: {
             js: ["Node", "Express"],
